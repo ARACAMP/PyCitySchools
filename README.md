@@ -1,6 +1,6 @@
 PYCITY SCHOOLS
 
-WE analyzed the district-wide standardized test results. 
+We analyzed the district-wide standardized test results. 
 
 District Summary
 
